@@ -31,10 +31,10 @@
     找到#c.NotebookApp.notebook_dir = ''这一行
     改为c.NotebookApp.notebook_dir = 'C://Users//24395//Desktop'
     
-    ![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp1/blob/master/4.png?raw=true)
+   ![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp1/blob/master/4.png?raw=true)
     
 （3）新建一个Notebook（Python 3），查看界面布局，并尝试写一些文本和代码。
 
-    ![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp1/blob/master/5.png?raw=true)
+   ![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp1/blob/master/5.png?raw=true)
     
-    ![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp1/blob/master/6.png?raw=true)
+   ![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp1/blob/master/6.png?raw=true)
