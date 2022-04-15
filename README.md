@@ -10,7 +10,7 @@
 
 ### 2.安装Anaconda（包含Jupyter Notebook）
 
-注意事项
+注意事项:
 安装路径不能包含中文，空格等
 选择Just me，否则需要管理员权限
 选择Register Anaconda3 as my default Python 3.9
